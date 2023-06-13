@@ -1,6 +1,8 @@
 <h1 align="center">Hello🌻 I'm Fanny</h1>
 <h3 align="center">A Year 3 Computer Science Student in NUS</h3>
 
+<img align = "right" alt="coding" width = "600" src ="https://github.com/fannyjian/fannyjian/assets/97325835/0f54db6a-f522-47a2-b6df-993b9b5a5606">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fannyjian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fannyjian" height="30" width="40" /></a>
