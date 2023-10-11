@@ -3,7 +3,7 @@
 
 <img align = "right" alt="coding" width = "600" src ="https://github.com/fannyjian/fannyjian/assets/97325835/0f54db6a-f522-47a2-b6df-993b9b5a5606">
 
-*Visit my [personal portfolio](https://fannyjian.vercel.app)!* 🪐 💫 
+*Visit my [personal portfolio](https://fannyjian.com)!* 🪐 💫 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
